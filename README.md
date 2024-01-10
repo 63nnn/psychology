@@ -14,7 +14,7 @@
 - 1996, 1998 Kimberly Young，提出判別標準
 - 2005 柯志鴻提出網路成癮九大準則
 - 2013 DSM-5 沒有網路成癮，但有「網路遊戲疾患」（Internet gaming disorder）
-- 國際疾病分類（ICD-11）則在2018年將「危險遊戲行為（Hazardous gaming）」與「遊戲失調（Gaming disorder）」條列其中
+- 2018 國際疾病分類（ICD-11）則將「危險遊戲行為（Hazardous gaming）」與「遊戲失調（Gaming disorder）」條列其中
 
 ---
 
